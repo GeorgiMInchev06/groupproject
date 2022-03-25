@@ -11,7 +11,7 @@ export default function Header() {
         marginTop:ConstantSourceNode.StatusBarHeight,
         width: '99vw',
         height: '40px',
-        backgroundColor: "blue",
+        backgroundColor: "#201E20",
         flexDirection: 'row',
         justifyContent: 'space-between'
         }}>

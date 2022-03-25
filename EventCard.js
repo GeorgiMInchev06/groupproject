@@ -21,7 +21,7 @@ const styles = StyleSheet.create({
     container: {
         marginVertical: 67,
         justifyContent: "space-between",
-        backgroundColor: '#44bcd8',
+        backgroundColor: '#E0A96D',
         flex: 1,
         padding: 70,
         paddingBottom: 80,
